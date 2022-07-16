@@ -7,6 +7,6 @@ This utility was written to control specific fans on Debian-based systems
 It works by manipulating fans values in /sys/class/hwmon  
 Working on Kubuntu 22.04  
 
-#TODO
+# TODO
 *Detect and test fans  
 *Generate and use configs  
